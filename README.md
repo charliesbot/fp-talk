@@ -1,0 +1,1 @@
+You can check each file's result by using node {file_name}.js
